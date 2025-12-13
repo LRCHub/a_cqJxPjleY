@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MONEY LOVE RESPECT",
+  "base_artist": "Yvng Patra",
+  "createdAt": "2025-12-13T07:11:06.115565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONEY LOVE RESPECT (feat. Tade Dust)",
+      "artist": "Yvng Patra",
+      "has_synced": true,
+      "path": "select/01_MONEY_LOVE_RESPECT_(feat._Tade_Dust)_Yvng_Patra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONEY LOVE RESPECT (feat.Tade Dust)",
+      "artist": "Yvng Patra",
+      "has_synced": true,
+      "path": "select/02_MONEY_LOVE_RESPECT_(feat.Tade_Dust)_Yvng_Patra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONEY LOVE RESPECT (feat. Tade Dust)",
+      "artist": "Yvng Patra",
+      "has_synced": false,
+      "path": "select/pl_01_MONEY_LOVE_RESPECT_(feat._Tade_Dust)_Yvng_Patra.txt"
+    }
+  ]
+}
