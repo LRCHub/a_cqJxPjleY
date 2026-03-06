@@ -1,4 +1,4 @@
-# Yvng Patra – MONEY LOVE RESPECT
+# Yvng Patra – MONEY LOVE RESPECT（feat. Tade Dust）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
